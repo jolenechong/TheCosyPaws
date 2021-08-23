@@ -1,0 +1,127 @@
+.name{
+  position: absolute;
+   align-items:center;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+.namebg{
+  position: absolute;
+  bottom: -42px;
+}
+.container{
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.bigcontainer{
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.picmargin{
+  margin-right: 10px;
+}
+.circle {
+  position: absolute;
+  bottom: -15px;
+  right: -8px;
+  height: 60px;
+  width: 60px;
+  background-color: #D0B08F;
+  border-radius: 50%;
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  z-index:20;
+}
+#myDIV{
+  position:absolute;
+  top:0px;
+  background-image: url("allimages/trans.png");
+  text-align: left;
+  color: black;
+  width: 250px;
+  height: 242px;
+  display: none;
+}
+#myDIV2{
+  position:absolute;
+  top:0px;
+  background-image: url("allimages/trans.png");
+  text-align: left;
+  color: black;
+  width: 250px;
+  height: 242px;
+  display: none;
+}
+#myDIV3{
+  position:absolute;
+  top:0px;
+  background-image: url("allimages/trans.png");
+  text-align: left;
+  color: black;
+  width: 250px;
+  height: 242px;
+  display: none;
+}
+#myDIV4{
+  position:absolute;
+  top:0px;
+  background-image: url("allimages/trans.png");
+  text-align: left;
+  color: black;
+  width: 250px;
+  height: 242px;
+  display: none;
+}
+#myDIV5{
+  position:absolute;
+  top:0px;
+  background-image: url("allimages/trans.png");
+  text-align: left;
+  color: black;
+  width: 250px;
+  height: 242px;
+  display: none;
+}
+#myDIV6{
+  position:absolute;
+  top:0px;
+  background-image: url("allimages/forpatches.png");
+  text-align: left;
+  color: black;
+  width: 250px;
+  height: 242px;
+  display: none;
+}
+#myDIV7{
+  position:absolute;
+  top:0px;
+  background-image: url("allimages/trans.png");
+  text-align: left;
+  color: black;
+  width: 250px;
+  height: 242px;
+  display: none;
+}
+.hamsterwheel{
+  max-height: 100%;
+  max-width: 100%;
+  margin-top: 10%;
+}
+.scrolling-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y:hidden;
+}
+    /* Hide scrollbar for Chrome, Safari and Opera */
+.scrolling-wrapper::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scrolling-wrapper {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
