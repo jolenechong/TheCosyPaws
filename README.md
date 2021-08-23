@@ -5,9 +5,9 @@ Teams Page (Live Demo): https://jolenechong.github.io/TheCosyPaws/team
 
 ## About Project
 Source Code: https://github.com/jolenechong/TheCosyPaws <br>
-The Links page was designed for use on instagram, hence it was also designed and developed mobile-first
-<img src="https://i.ibb.co/cN5hfWM/The-Cosy-Paws-links.png" alt="The-Cosy-Paws-links">
-The teams page was a fun way to display the team.
+The Links page was designed for use on instagram, hence it was also designed and developed mobile-first<br>
+<img src="https://i.ibb.co/cN5hfWM/The-Cosy-Paws-links.png" alt="The-Cosy-Paws-links"><br>
+The teams page was a fun way to display the team.<br>
 <img src="https://i.ibb.co/kQWsFJ2/The-Cosy-Paws-team.png" alt="The-Cosy-Paws-team">
 
 ## Built with
